@@ -80,17 +80,8 @@ dataset_name='YourDatasetName' # Update this to match your .mat file
 
 If you use this code or paper in your research, please cite:
 
-```bibtex
-@article{rani2026reec,
-  title={Random feature embeddings give strong baselines for extreme multi-label text classification},
-  author={Rani, Asha and Dutt, Rudra and Verma, Yashaswi},
-  journal={International Journal of Data Science and Analytics},
-  volume={21},
-  pages={27},
-  year={2026},
-  publisher={Springer},
-  doi={10.1007/s41060-025-00949-y}
-}
+```
+Rani, A., Dutt, R. & Verma, Y. Random feature embeddings give strong baselines for extreme multi-label text classification. Int J Data Sci Anal 21, 27 (2026). https://doi.org/10.1007/s41060-025-00949-y
 ```
 
 ## Acknowledgment
