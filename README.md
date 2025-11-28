@@ -81,7 +81,7 @@ dataset_name='YourDatasetName' # Update this to match your .mat file
 If you use this code or paper in your research, please cite:
 
 ```bibtex
-@article{rani2026random,
+@article{rani2026reec,
   title={Random feature embeddings give strong baselines for extreme multi-label text classification},
   author={Rani, Asha and Dutt, Rudra and Verma, Yashaswi},
   journal={International Journal of Data Science and Analytics},
