@@ -42,6 +42,8 @@ The code is designed to work with datasets from the [Extreme Classification Repo
       * **Conversion Tool:** You can use the provided script `convert_sparse_txt_to_mat.m` to convert sparse text files into the required `.mat` format.
 3.  **Placement:** Place the dataset file (e.g., `Wiki_10k_original.mat`) in the root directory.
 
+OR
+4.  Download our **pre-processed .mat files here [Download via Google Drive](https://drive.google.com/drive/folders/1snqdpwbfDJYsbtHORMHVgeOEp0K8f-v6?usp=sharing)**.
 *For reference to the exact filenames and variable names required, please check `data_load.m`.*
 
 -----
